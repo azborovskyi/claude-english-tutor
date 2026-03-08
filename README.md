@@ -21,7 +21,7 @@ Your prompt history accumulates automatically as you use Claude Code across all 
 Clone the repo and run Claude Code from it:
 
 ```bash
-git clone <repo-url> ~/english-tutor
+git clone git@github.com:azborovskyi/claude-english-tutor.git
 cd ~/english-tutor
 claude
 ```
