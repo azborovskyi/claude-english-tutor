@@ -22,7 +22,7 @@ Clone the repo and run Claude Code from it:
 
 ```bash
 git clone git@github.com:azborovskyi/claude-english-tutor.git
-cd ~/english-tutor
+cd claude-english-tutor
 claude
 ```
 
