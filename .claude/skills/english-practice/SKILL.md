@@ -27,4 +27,6 @@ Tell the agent: "Build an interactive web exercise app in the project root targe
 
 ## First-time setup
 
-If this is the first session (no MEMORY.md exists in agent memory yet), always start with `analyze` mode first to build the initial mistake database before doing drills.
+The english-tutor agent stores its memory at `.claude/agent-memory-local/english-tutor/` (relative to project root). Check for `MEMORY.md` at that path to determine if a prior analysis exists.
+
+If this is the first session (no MEMORY.md exists), always start with `analyze` mode first to build the initial mistake database before doing drills.
